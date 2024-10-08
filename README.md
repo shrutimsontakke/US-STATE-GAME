@@ -29,7 +29,7 @@ To get started, clone this repository and install the necessary dependencies.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/U.S.-States-Game.git
+   git clone https://github.com/shrutimsontakke/U.S.-States-Game.git
    cd U.S.-States-Game
    ```
 
