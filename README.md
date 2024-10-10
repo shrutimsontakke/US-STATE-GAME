@@ -8,7 +8,7 @@ This project is a fun and interactive game to learn and test your knowledge of t
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [How to Play](#how-to-play)
-- [License](#license)
+
 
 ## Project Overview
 The U.S. States Game uses a blank map of the United States and prompts the player to guess the names of the states. Correct guesses display the state name on the map, while incorrect guesses prompt the user to try again. Once the player chooses to exit the game, a CSV file (`states_to_learn.csv`) is generated with the states that were not correctly guessed.
