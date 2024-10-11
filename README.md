@@ -1,6 +1,6 @@
 <h1>US-STATES-GAME</h1>
 
-This project is a fun and interactive game to learn and test your knowledge of the U.S. states. It uses the `turtle` graphics module in Python to display a map of the U.S., prompting the user to name each state. If a guessed state is correct, the name is displayed on the map at the state's location. The goal is to correctly identify all 50 states!
+This project is a fun and interactive game to learn and test your knowledge of the U.S. states. It uses the `turtle` graphics module in Python to display a map of the U.S., prompting the user to name each state. If a guessed state is correct, the name is displayed on the map at the state's location. The goal is to correctly identify all 50 states!!
 
 ## Table of Contents
 - [Project Overview](#project-overview)
