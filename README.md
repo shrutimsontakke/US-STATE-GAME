@@ -56,4 +56,4 @@ To get started, clone this repository and install the necessary dependencies.
 5. If you exit early, a CSV file named `states_to_learn.csv` will be created, listing the states you did not guess.
 
 <div align="center">
-Happy gaming, and enjoy learning about U.S. states!</div>
+Happy gaming, and enjoy learning about U.S. states!!</div>
