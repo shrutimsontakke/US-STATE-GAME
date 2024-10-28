@@ -24,7 +24,8 @@ while len(guessed_states) < 50:
         break
         # print(missing_states)
     if answer_state in all_states:
-        guessed_states.append(answer_state)
+        if answer_state not in guessed_state:
+            guessed_states.append(answer_state)
         t =turtle.Turtle()
         t.hideturtle()
         t.penup()
